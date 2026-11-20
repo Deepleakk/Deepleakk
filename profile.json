@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "login": "Deepleakk",
+  "seed": "#FF8A3D",
+  "seedFromAvatar": false,
+  "scheme": "fidelity",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hello! i am",
+    "name": "",
+    "subtitle": "Just a random github user.",
+    "typing": true,
+    "avatarShape": "sunny",
+    "chips": [
+      {
+        "icon": "code",
+        "label": "Vibecoder"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "rocket_launch",
+        "label": "Building WhatsApp bots & web apps "
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:javascript",
+            "label": "Javascript"
+          },
+          {
+            "icon": "brand:html5",
+            "label": "HTML"
+          },
+          {
+            "icon": "brand:css",
+            "label": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:gnometerminal",
+            "label": "Termux"
+          },
+          {
+            "icon": "brand:acode",
+            "label": "Acode"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "portofolio",
+      "i",
+      "ourin-3.1",
+      "my-WhatsApp-bot"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/azensenpai "
+      },
+      {
+        "icon": "brand:tiktok",
+        "url": "https://tiktok.com/@repl.sh"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "Anime Streaming",
+        "url": "https://zenimaku.anzs.my.id",
+        "style": "filled"
+      }
+    ],
+    "card": true
+  }
+}
