@@ -8,9 +8,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/Deepleakk/portofolio"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-portofolio-dark.svg"><img src="assets/project-portofolio-light.svg" width="49%" alt="portofolio"></picture></a>&nbsp;<a href="https://github.com/Deepleakk/i"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-i-dark.svg"><img src="assets/project-i-light.svg" width="49%" alt="i"></picture></a>
-
-<a href="https://github.com/Deepleakk/ourin-3.1"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ourin-3-1-dark.svg"><img src="assets/project-ourin-3-1-light.svg" width="49%" alt="ourin-3.1"></picture></a>&nbsp;<a href="https://github.com/Deepleakk/my-WhatsApp-bot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-my-whatsapp-bot-dark.svg"><img src="assets/project-my-whatsapp-bot-light.svg" width="49%" alt="my-WhatsApp-bot"></picture></a>
+<a href="https://github.com/Deepleakk/i"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-i-dark.svg"><img src="assets/project-i-light.svg" width="49%" alt="i"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 

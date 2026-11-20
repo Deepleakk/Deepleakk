@@ -1,0 +1,282 @@
+{
+ "key": "275d9ecd",
+ "stars": 6,
+ "contributions": 258,
+ "repos": 15,
+ "followers": 3,
+ "languages": [
+  [
+   "JavaScript",
+   7086536
+  ],
+  [
+   "HTML",
+   5664578
+  ],
+  [
+   "CSS",
+   5381
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 20,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 5
+ },
+ "pins": [
+  {
+   "name": "i",
+   "url": "https://github.com/Deepleakk/i",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "portofolio",
+   "url": "https://github.com/Deepleakk/portofolio",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "ourin-3.1",
+   "url": "https://github.com/Deepleakk/ourin-3.1",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "my-WhatsApp-bot",
+   "url": "https://github.com/Deepleakk/my-WhatsApp-bot",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "reposiapainianj",
+   "url": "https://github.com/Deepleakk/reposiapainianj",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "i",
+   "url": "https://github.com/Deepleakk/i",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "clown",
+   "url": "https://github.com/Deepleakk/clown",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "starseed",
+   "url": "https://github.com/Deepleakk/starseed",
+   "text": "A simple WhatsApp bot built on Baileys",
+   "fork": true,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Deepleakk",
+   "url": "https://github.com/Deepleakk/Deepleakk",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "usisj",
+   "url": "https://github.com/Deepleakk/usisj",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Clan-7Souls",
+   "url": "https://github.com/Deepleakk/Clan-7Souls",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "nKsksow",
+   "url": "https://github.com/Deepleakk/nKsksow",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "JAWAD-MD",
+   "url": "https://github.com/Deepleakk/JAWAD-MD",
+   "text": "Fast, Smart, & Packed with Features. Meet JAWAD-MD – Your Ultimate Advance New WhatsApp Bot",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Lara-3V",
+   "url": "https://github.com/Deepleakk/Lara-3V",
+   "text": "Lara MD | World Best Whatsapp Bot",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Ourin-AI-2.2.0",
+   "url": "https://github.com/Deepleakk/Ourin-AI-2.2.0",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Knightbot-MD",
+   "url": "https://github.com/Deepleakk/Knightbot-MD",
+   "text": "A simple WhatsApp bot to manage groups",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ]
+}
